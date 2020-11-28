@@ -14,5 +14,5 @@ Demo Illustration: https://www.youtube.com/watch?v=JnQ7bRqm-oU
 ## Original Source
 [https://github.com/AniketSindhu/mask_detector](https://github.com/AniketSindhu/mask_detector)
 
-All the credit belongs to original source code developer!!!
+All the credit belongs to original source code developer!!!   
 What I have done is that, original source code does not run on my flutter version, so I had to modify pubspec.yaml and update version of flutter_svg to run on my environment.
